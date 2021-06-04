@@ -1,0 +1,32 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.hola{
+   width: 300px;
+    height: auto;
+    margin: auto;
+    padding: 8px;
+	padding-top: 100px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.hola div{
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+    background-color:#5DCEA3;
+    margin: 30px;
+    margin-top: 8px;
+    padding-top: 8px;
+	margin: auto;
+	margin-bottom: 30px;
+	border-radius: 20px;  
+}
+.hola .cuatro{
+    background-color: #001737;
+}
