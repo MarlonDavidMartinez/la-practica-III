@@ -2,30 +2,33 @@
     padding: 0px;
     margin: 0px;
 }
+html{
+	font-size: 62.5%;
+}
 .hola{
-   width: 300px;
+   width: 30rem;
     height: auto;
     margin: auto;
-    padding: 8px;
-	padding-top: 100px;
+    padding: 0.8rem;
+	padding-top: 10rem;
     box-sizing: border-box;
-    margin-bottom: 20px;
+    margin-bottom: 2rem;
     
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
 }
 .hola div{
-    width: 100px;
-    height: 100px;
+    width: 10rem;
+    height: 10rem;
     box-sizing: border-box;
     background-color:#5DCEA3;
-    margin: 30px;
-    margin-top: 8px;
-    padding-top: 8px;
+    margin: 3rem;
+    margin-top: 0.8rem;
+    padding-top: 0,8rem;
 	margin: auto;
-	margin-bottom: 30px;
-	border-radius: 20px;  
+	margin-bottom: 3rem;
+	border-radius: 2rem;  
 }
 .hola .cuatro{
     background-color: #001737;
